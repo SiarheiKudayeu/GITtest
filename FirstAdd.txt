@@ -5,3 +5,4 @@ modified not by me
 Add new line echo
 Branch exersize
 try to do
+dodelat v pjatnicy
